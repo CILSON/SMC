@@ -46,7 +46,7 @@ Condition:
 
 This chart shows **HH, HL, LH, and LL** clearly marked:
 
-![Market Structure Mapping](../../charts/Structure-Mapping/HH-HL-LL-LH.png)
+![Market Structure Mapping](../../charts/Structure-Mapping/HH.png)
 
 ---
 
