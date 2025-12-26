@@ -46,7 +46,7 @@ Without inducement, BOS is weaker and more prone to failure.
 
 ## Visual Example
 
-![Break of Structure Example](../charts/structure-mapping/bos-example.png)
+![Break of Structure Example](../../charts/Structure-Mapping/bos.png)
 
 The marked candle closes beyond the previous structural level, confirming continuation.
 
