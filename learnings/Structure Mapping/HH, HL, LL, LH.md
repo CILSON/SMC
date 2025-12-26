@@ -8,7 +8,10 @@ A "Lower Low" occurs when previous Low is broken or price of the assest reaches 
 
 A "Lower High" occurs when New High is made above the previous High, without being preceded by Higher High. \n
 
-This Chart is Showing HH, HL, LH, LL 
+
+This Chart is Showing HH, HL, LH, LL:
+![HH HL LL LH Structure]
+
 
 # <u>Trend</u>
 
