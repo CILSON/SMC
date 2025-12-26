@@ -17,6 +17,7 @@ BOS confirms that the current trend is still valid.
 ### 1️⃣ Structure Context
 - Trend must already be defined using HH/HL or LL/LH
 - BOS is **continuation**, not reversal
+- Watch an Expansion case for Structural BOS
 
 ---
 
