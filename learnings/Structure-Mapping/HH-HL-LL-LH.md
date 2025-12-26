@@ -11,7 +11,7 @@ A "Lower High" occurs when New High is made above the previous High, without bei
 
 This Chart is Showing HH, HL, LH, LL:
 
-![HH HL LL LH](charts/Structure-Mapping/HH-HL-LL-LH.png)
+![HH HL LL LH](../../charts/Structure-Mapping/HH-HL-LL-LH.png)
 
 
 # <u>Trend</u>
